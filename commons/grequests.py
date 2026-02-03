@@ -3,7 +3,7 @@ import os
 
 def download(directory, filename):
     # The base URL of the image files in the GitHub repository
-    base_url = 'https://raw.githubusercontent.com/Denis2054/Building-Business-Ready-Generative-AI-Systems/main/'
+    base_url = 'https://raw.githubusercontent.com/uCertifyLLC/Building-Business-Ready-Generative-AI-Systems/main/'
 
     # Complete URL for the file
     file_url = f"{base_url}{directory}/{filename}"
